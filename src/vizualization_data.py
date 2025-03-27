@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from parser_csv import ParserStudents
 
-parser_data = ParserStudents('students_performance.csv')
+parser_data = ParserStudents('data/students_performance.csv')
 
 df = pd.DataFrame(parser_data.data)
 
