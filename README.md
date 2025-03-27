@@ -3,6 +3,20 @@
 ## Описание
 Проект для анализа результатов тестов студентов
 
+
 ## Использование
-1. Запустите парсер: `python src/parser_csv.py`
-2. Запустите визуализации: `python src/vizualization_data.py`
+
+git clone https://github.com/yourusername/student-analysis.git
+cd student-analysis
+
+pip install -r requirements.txt
+
+запуск: python src/visualize.py
+
+##Визуализации
+
+Использованы следующие типы графиков:
+
+Гистограммы распределения (sns.histplot())
+Боксплоты (sns.boxplot())
+Тепловые карты корреляций (sns.heatmap())
