@@ -22,4 +22,4 @@ cd student-analysis
 🚀 Запуск
 Для запуска анализа и визуализации выполните:
 
-python src/vizualization.py
+python src/vizualization_data.py
