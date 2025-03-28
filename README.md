@@ -14,7 +14,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/student-analysis.git
+1. git clone https://github.com/yourusername/student-analysis.git
 cd student-analysis
 
 2. pip install -r requirements.txt
@@ -22,4 +22,4 @@ cd student-analysis
 🚀 Запуск
 Для запуска анализа и визуализации выполните:
 
-python src/visualize.py
+python src/vizualization.py
